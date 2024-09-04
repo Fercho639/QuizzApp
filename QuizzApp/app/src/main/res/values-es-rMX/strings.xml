@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="Falso_Button">Falso</string>
+    <string name="Verdadero_Button">Verdadero</string>
+</resources>
